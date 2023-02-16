@@ -1,4 +1,4 @@
-# Lexical-Analyzer-in-C
+# Lexical-Analyzer-in-C++
 
 <pre>
 Here you will get program to implement lexical analyzer in  C++.
