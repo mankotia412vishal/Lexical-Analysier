@@ -1,6 +1,6 @@
 # Lexical-Analyzer-in-C
 
-
+<pre>
 Here you will get program to implement lexical analyzer in  C++.
 Compiler is responsible for converting high level language in machine language.
 There are several phases involved in this and lexical analysis is the first phase.
@@ -34,3 +34,4 @@ Name - Vishal Singh
 Branch - IT
 Email - vishal.singh20@vit.edu
 College name - Vishwakarama institute of technology
+</pre>
